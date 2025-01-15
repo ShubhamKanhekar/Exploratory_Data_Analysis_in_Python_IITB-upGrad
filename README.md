@@ -7,4 +7,5 @@ There are three files containing data about loan applications:
 3. column_description.csv (describes all the columns in applicaiton_data.csv and previous_application.csv)
 The EDA is done on jupyter notebook and an accomodating ppt is uploaded to summarize findings and recommendations out of the Exploration of the Dataset.
 
-
+Github doesn't allow to upload files of size bigger than 25mb. Hence, I couldn't upload the application_data.csv (162 mb) and previous_application.csv (395 mb).
+However, I have provided the columns_description table for reference of the two datasets.
